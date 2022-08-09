@@ -22,7 +22,7 @@ func main() {
 	})
 
 	// Create a new label widget to show in the window.
-	l, err := gtk.LabelNew("Hello, gotk3!")
+	l, err := gtk.LabelNew("Hello, gotk3!!")
 	if err != nil {
 		log.Fatal("Unable to create label:", err)
 	}
