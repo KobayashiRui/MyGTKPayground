@@ -1,5 +1,5 @@
-module gtk3-example/simple
+module gtk-simple
 
-go 1.17
+go 1.19
 
-require github.com/gotk3/gotk3 v0.6.1
+require github.com/gotk3/gotk3 v0.6.1 // indirect
